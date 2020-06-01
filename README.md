@@ -1,6 +1,8 @@
 # Python Note
 - 본 문서는 개인적으로 Python을 이용한 데이터분석 및 ML을 공부하면서 자주 햇갈리는 부분들을 정리할 목적으로 작성한 notebook 파일입니다.
-- 지속적으로 업데이트 할 예정입니다.
+- 파일 안에서 해당 내용을 쉽게 찾을 수 있도록 markup 언어의 제목 태그를 활용하였습니다. jupyter notebook이나 jupyter lab 등을 이용하시는 경우,
+[jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toctoc) 등을 설치한 후 본 노트북을 보시면 원하는 내용을 쉽게 찾으실 수 있으실 겁니다.
+- 본 노트북은 지속적으로 업데이트 할 예정입니다.
 
 ## 참고자료
 본 문서 작성을 위해 다음의 자료들을 기본으로 다양한 책, 블로그 등을 참고하였습니다.
